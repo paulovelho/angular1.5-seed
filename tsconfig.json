@@ -1,0 +1,19 @@
+{
+
+  "compilerOptions": {
+    "target": "es5",
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "declaration": false,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "outDir": "./tmp",
+    "rootDir": "./app"
+  },
+  "include": [
+    "app/**/*",
+    "typings/**/*"
+  ]
+}

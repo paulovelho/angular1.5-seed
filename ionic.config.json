@@ -1,0 +1,9 @@
+{
+  "name": "paulo-app",
+  "app_id": "",
+  "gulpStartupTasks": [
+  ],
+  "watchPatterns": [
+    "www/**/*"
+  ]
+}
